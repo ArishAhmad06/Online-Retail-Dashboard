@@ -34,7 +34,7 @@ The dashboard transforms raw data into meaningful insights for better business d
 
 ## 📊 Dashboard Preview
 
-https://github.com/ArishAhmad06/Online-Retail-Dashboard/blob/main/OnlineRetail.png?raw=true
+![Dashboard Preview](OnlineRetail.png)
 
 ---
 
